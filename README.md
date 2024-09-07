@@ -1,1 +1,1 @@
-# Unlocking-Yelp-Reviews-With-AI
+# AI-Studio-Project
